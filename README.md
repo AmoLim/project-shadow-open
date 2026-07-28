@@ -42,6 +42,8 @@ https://github.com/user-attachments/assets/55b69a0d-40d9-40a0-90d1-addba9d616be
 
 https://github.com/user-attachments/assets/6ddc432a-4a1d-4010-87af-02fcfa5212a0
 
+https://github.com/user-attachments/assets/2a24aed7-c541-4eef-a488-eafedd35ae4d
+
 <!-- 在这里添加演示视频链接或视频封面 -->
 
 ## 视觉与交互亮点
@@ -135,6 +137,8 @@ The video focuses on:
 - Preserving visibility around the player in complex scenes
 
 https://github.com/user-attachments/assets/6ddc432a-4a1d-4010-87af-02fcfa5212a0
+
+https://github.com/user-attachments/assets/2a24aed7-c541-4eef-a488-eafedd35ae4d
 
 <!-- Add the demo video link or thumbnail here -->
 
